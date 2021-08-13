@@ -11,12 +11,12 @@
   Emulator or device must have eng.traineddata file in storage/emulated/0/tessdata <br>
   You can download the eng.traineddata file [here](https://tesseract-ocr.github.io/tessdoc/Data-Files.html)
 
-<h3> ---- WHEN YOU FİRST OPEN THE APP ---- </h3>
+<h4> ---- WHEN YOU FİRST OPEN THE APP ---- </h4>
 
   ![1](https://user-images.githubusercontent.com/44063640/129327522-dc2078cd-f19f-4987-8d4f-a9ed6a9fb481.png)
-<h3> ---- IF YOU CLICK STATIC IMAGE ---- </h3>
+<h4> ---- IF YOU CLICK STATIC IMAGE ---- </h4>
 
 ![2](https://user-images.githubusercontent.com/44063640/129327525-a2237690-b2e5-4dd3-ae25-0fad4df51758.png)
-<h3> ---- TAKING A PHOTO FROM THE CAMERA ---- </h3>
+<h4> ---- TAKING A PHOTO FROM THE CAMERA ---- </h4>
 
 ![3](https://user-images.githubusercontent.com/44063640/129327527-86a266e0-7e1f-485f-8ada-101b994df273.png)
