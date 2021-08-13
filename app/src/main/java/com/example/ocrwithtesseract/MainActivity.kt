@@ -91,9 +91,9 @@ class MainActivity : AppCompatActivity() {
         val fileProvider =
             FileProvider.getUriForFile(
                 this,
-                "com.example.ocrwithtesseract",
+                "YOUR PACKAGE NAME",
                 photoFile
-            ) // authority Your packet name
+            )
         takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, fileProvider)
 
         if (takePictureIntent.resolveActivity(this.packageManager) != null) {
